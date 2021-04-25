@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-learn-wpu-css-grid/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Inside all of these directories are CSS Grid learning materials as a foundation when you want to customize bootstrap.
+Inside all of these directories are CSS Grid learning materials as a foundation when you want to build website mobile first.
 
 For those who want to contribute, just fork or download as usual!
 
